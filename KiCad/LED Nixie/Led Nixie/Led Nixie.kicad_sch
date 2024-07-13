@@ -1590,16 +1590,16 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 58.42 101.6 180)
+		(at 58.42 101.6 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "33f10d32-1b0f-4dd2-beb5-42bcf90ad20d")
 		(property "Reference" "J2"
-			(at 58.42 92.71 0)
+			(at 58.42 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1607,7 +1607,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 58.42 95.25 0)
+			(at 58.42 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2346,16 +2346,16 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 58.42 139.7 180)
+		(at 58.42 139.7 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "79851ea5-9eae-4637-92c1-334e4d4863f8")
 		(property "Reference" "J3"
-			(at 58.42 130.81 0)
+			(at 58.42 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2363,7 +2363,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 58.42 133.35 0)
+			(at 58.42 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
